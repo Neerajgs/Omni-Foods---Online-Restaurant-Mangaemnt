@@ -3,3 +3,17 @@ An Online Reaturant management System developed using HTML , CSS , JavaScript as
 and MongoDB , Mysql , Nodejs , Express Js for the backend Part
 
 How to Run the Project:
+1.Clone the project by Downloading the zip file
+2.Extract the files to a folder
+3.Open the terminal in that Folder
+4.Run the following command
+    node backend_food.js
+5.The terminal displays a port number to which it is listening
+    In our case it would be 9000
+6.
+
+
+
+
+
+
