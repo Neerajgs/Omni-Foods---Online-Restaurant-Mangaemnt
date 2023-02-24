@@ -10,7 +10,9 @@ How to Run the Project:
     node backend_food.js
 5.The terminal displays a port number to which it is listening
     In our case it would be 9000
-6.
+6.Go to the Browser and type the foloowing command
+    localhost:9000
+7.You will get the website up and running.
 
 
 
