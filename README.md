@@ -14,6 +14,9 @@ How to Run the Project:
     localhost:9000
 7.You will get the website up and running.
 
+There are a diffrent node module and mysql files . So u need to have nodeJS and MySQL running on your computer 
+for the website to run.
+
 
 
 
